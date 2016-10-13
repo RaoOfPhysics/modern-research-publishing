@@ -1,12 +1,12 @@
 # Why markdown
 
-And, more importantly, **why not $LaTeX$?**
+And, more importantly, **why not $\LaTeX$?**
 
 Without making this a terribly long chapter, I’ll briefly let you know why I am a markdown fan.
-For one, its syntax is MUCH simpler than $LaTeX$.
+For one, its syntax is MUCH simpler than $\LaTeX$.
 Come to think of it, most of us don’t use or need everything that the latter brings.
-But more importantly, $LaTeX$ syntax works perfectly within markdown documents, as you can see here, so you can use it when needed, including for inserting page breaks and whatnot.
-For inline $LaTeX$, just enclose your text with `$` on both sides, like this: `$LaTeX$`.
+But more importantly, $\LaTeX$ syntax works perfectly within markdown documents, as you can see here, so you can use it when needed, including for inserting page breaks and whatnot.
+For inline $\LaTeX$, just enclose your text with `$` on both sides, like this: `$\LaTeX$`.
 
 Another feature that I find useful is that single line breaks are not treated as line breaks (unless they have two trailing spaces at the end).
 This means that I can record each new sentence on a new line and have them stay part of the same paragraph.
