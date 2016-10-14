@@ -16,5 +16,5 @@ Authorea won’t show them but GitHub will prominently display your `README` on 
 
 Now, to add content to your piece, just create `.md` files (in appropriate directories) and add them to `layout.md`.
 
-In this example, I’m goinz to mek sum typos so that when I submit a pull request, one of you kind folk will leave a line comment reminding me to fix it.
+In this example, I’m going to make some typos so that when I submit a pull request, one of you kind folk will leave a line comment reminding me to fix it.
 Once the PR is merged, Authorea should magically build us our updates file.
