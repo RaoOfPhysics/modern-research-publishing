@@ -6,3 +6,4 @@ abstract.md
 03_git_branches/02_branches_collaboration.md
 04_authorea/00_authorea.md
 05_github/00_github.md
+06_zenodo/00_zenodo.md
