@@ -1,3 +1,6 @@
 abstract.md
 01_getting_started/01_getting_started.md
 02_markdown/01_why_markdown.md
+03_git_branches/01_git_branches.md
+03_git_branches/02_branches_for_self.md
+03_git_branches/03_branches_collaboration.md
