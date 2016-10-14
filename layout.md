@@ -4,3 +4,4 @@ abstract.md
 03_git_branches/00_git_branches.md
 03_git_branches/01_branches_for_self.md
 03_git_branches/02_branches_collaboration.md
+04_authorea/00_authorea.md
